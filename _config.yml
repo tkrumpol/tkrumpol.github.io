@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-title: Personal Website of Tom Krumpolc
+title: Tom Krumpolc
 description: Welcome to my homepage. Here you can learn more about my research, personal projects, and interests.
 markdown: kramdown
 include:
@@ -8,22 +8,4 @@ owner:
   name: Tom Krumpolc
   avatar: /_photos/Headshot.jpg
   
-#DO NOT EDIT BEYOND THIS POINT
-# Jekyll configuration
 
-permalink:   /:categories/:title/
-markdown:    kramdown
-highlighter: rouge
-sass:
-  sass_dir: _sass
-  style: compressed
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  enable_coderay: false
