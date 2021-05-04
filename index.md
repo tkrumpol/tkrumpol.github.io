@@ -1,4 +1,4 @@
-![Headshot.jpg](images/Headshot.jpg) {
+![Headshot.jpg](images/Headshot.jpg){
                                         width: 70%;
                                         height: 70%;
                                         border: none;
