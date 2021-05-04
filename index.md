@@ -1,6 +1,5 @@
-![Headshot.jpg](images/Headshot.jpg){
-                                        width: 70%;
-                                        height: 70%;
+![Headshot.jpg](images/Headshot.jpg){   width: 40%;
+                                        height: 40%;
                                         border: none;
                                         background: none;
                                       } 
