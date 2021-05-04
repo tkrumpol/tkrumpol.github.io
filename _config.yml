@@ -11,7 +11,7 @@ owner:
 
 #DO NOT EDIT BEYOND THIS POINT
 # Jekyll configuration
-
+has_children: true
 permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: rouge
