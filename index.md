@@ -1,6 +1,6 @@
 
 <div>
-    <p style="float: left; clear: left"><img src="./images/Headshot.jpg" class="center" alt="my caption" style=”width: 250px;" border="10px"></p>
+    <p style="float: left;"><img src="./images/Headshot.jpg" class="center" alt="my caption" style=”width: 250px;" border="10px"></p>
     <p>Hi, my name is Tom. Originally from a suburb of Chicago, I graduated summa cum laude from the University of Arkansas with a bachelor's degree in chemical engineering.</p>
 </div>
 
