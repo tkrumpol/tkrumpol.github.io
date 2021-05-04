@@ -1,6 +1,9 @@
 theme: jekyll-theme-cayman
-title: Tom Krumpolc
+title: Personal Website of Tom Krumpolc
 description: Welcome to my homepage. Here you can learn more about my research, personal projects, and interests.
 markdown: kramdown
 include:
   - "_img"
+owner:
+  name: Tom Krumpolc
+  avatar: Headshot.jpg
