@@ -1,6 +1,6 @@
 
 <html>
-<img src="/_photos/Headshot.jpg" alt="Headshot"
+<img src="tkrumpol.github.io/_photos/Headshot.jpg" alt="Headshot"
 	title="Tom's headshot"/> 
 </html>
 
