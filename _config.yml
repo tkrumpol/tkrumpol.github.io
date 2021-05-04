@@ -9,3 +9,15 @@ owner:
   avatar: /_photos/Headshot.jpg
   
 
+#DO NOT EDIT BEYOND THIS POINT
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
